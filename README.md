@@ -11,7 +11,7 @@
 
 <div>
   <br>
-  <h2>💻 Linguagens/linguagem de marcação aprendidas</h2>
+  <h2>💻 Linguagens aprendidas</h2>
   <br>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
