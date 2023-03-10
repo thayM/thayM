@@ -1,8 +1,9 @@
-### Olá! Sou a thayM
+### 💬 Olá! Sou a thayM
 
 - 🌱 Estudante do 3°ano de Desenvolvimento de Sistemas na Etec
 - 😄 Pronomes: ela/dela
 
+<br>
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=thayM&show_icons=true&theme=tokyonight&include_all_comits=true&count_private=true" alt="188em">
