@@ -21,6 +21,6 @@
     <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
     <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />    
 </div>
-                                                                                                                                
-                                                                                                                                
-         
+   <br>
+    <h2>Formas de contato</h2>
+         <a href="" scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
