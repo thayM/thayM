@@ -2,6 +2,7 @@
 
 - 👩‍💻 Programadora Junior
 - 🌱 Estudante do 3° ano de Desenvolvimento de Sistemas na Etec
+- ✍️ Linguagem(ns) que estou aprendendo: Python
 - 📓 Faculdade futura: Sistemas da Informação
 - 😄 Pronomes: ela/dela
 
