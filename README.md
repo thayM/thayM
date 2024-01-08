@@ -1,9 +1,9 @@
 ### 💬 Olá! Sou a thayM
 
 - 👩‍💻 Programadora Junior
-- 🌱 Estudante do 3° ano de Desenvolvimento de Sistemas na Etec
+- 🌱 Formada em Desenvolvimento de Sistemas na Etec
 - ✍️ Linguagem(ns) que estou aprendendo: Python
-- 📓 Faculdade futura: Sistemas da Informação
+- 📓 Curso e faculdade: Análise e Desenvolvimento de Sistemas na Fatec
 - 😄 Pronomes: ela/dela
 
    <br>
@@ -30,6 +30,6 @@
    <br>
    <div>
     <h2>🤳Formas de contato</h2>
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
+        <a href="www.linkedin.com/in/thayná-marostica-3b380b2a2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
         <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
    </div>
