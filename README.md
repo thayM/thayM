@@ -27,6 +27,9 @@
     <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> 
     <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" /> 
     <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
+    
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
          
           
 </div>
