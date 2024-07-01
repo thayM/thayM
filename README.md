@@ -2,7 +2,7 @@
 
 - 👩‍💻 Programadora Junior
 - 🌱 Formada em Desenvolvimento de Sistemas na Etec
-- ✍️ Linguagem(ns) que estou aprendendo: Python; React + .net
+- ✍️ Linguagem(ns) que estou aprendendo: Python, React + .net
 - 📓 Curso e faculdade: Análise e Desenvolvimento de Sistemas na Fatec
 - 😄 Pronomes: ela/dela
 
@@ -29,8 +29,6 @@
    <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
    <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
    <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-          
-   
           
 </div>
    <br>
