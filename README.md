@@ -1,4 +1,4 @@
-### 💬 Olá! Sou a thayM
+### 💬 Olá! Sou a Thayná
 
 - 👩‍💻 Programadora Junior
 - 🌱 Formada em Desenvolvimento de Sistemas na Etec
@@ -26,6 +26,9 @@
     <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /> 
     <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> 
     <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" /> 
+    <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
+         
+          
 </div>
    <br>
    <div>
