@@ -2,7 +2,7 @@
 
 - 👩‍💻 Programadora Junior
 - 🌱 Formada em Desenvolvimento de Sistemas na Etec
-- ✍️ Linguagem(ns) que estou aprendendo: Python, React + .net
+- ✍️ Linguagem(ns) que estou aprendendo: Python e React
 - 📓 Curso e faculdade: Análise e Desenvolvimento de Sistemas na Fatec
 - 😄 Pronomes: ela/dela
 
